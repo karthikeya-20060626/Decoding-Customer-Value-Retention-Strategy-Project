@@ -1,0 +1,17 @@
+"season","category","total_customers","avg_tenure","low_tenure_count","high_tenure_count","avg_spend","promo_rate_pct"
+"Spring","Footwear",163,24.2,88,75,58.62,38.7
+"Summer","Outerwear",75,24.3,36,39,57.04,44.0
+"Fall","Outerwear",88,24.4,42,46,59.76,45.5
+"Summer","Clothing",408,24.5,206,202,56.56,45.1
+"Fall","Footwear",136,24.6,70,66,63.71,49.3
+"Fall","Accessories",324,24.7,172,152,61.34,42.6
+"Spring","Clothing",454,24.8,222,232,61.00,44.9
+"Winter","Outerwear",80,25.2,39,41,57.03,47.5
+"Winter","Accessories",303,25.5,144,159,60.37,43.6
+"Fall","Clothing",427,25.5,208,219,61.41,35.6
+"Summer","Footwear",160,25.6,70,90,58.71,45.6
+"Spring","Accessories",301,25.9,143,158,56.50,46.5
+"Spring","Outerwear",81,26.0,43,38,54.63,40.7
+"Winter","Clothing",448,26.1,210,238,60.88,42.6
+"Winter","Footwear",140,26.7,61,79,60.57,40.0
+"Summer","Accessories",312,26.8,132,180,60.99,42.6
